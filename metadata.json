@@ -1,0 +1,6 @@
+{
+  "name": "Beatles Mania",
+  "description": "Прикольные и невероятные факты, тайны треков, интерактивный тест и гитарный синтезатор легендарных аккордов The Beatles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

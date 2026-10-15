@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Beatles Mania</string>
+    <string name="nav_facts">Факты</string>
+    <string name="nav_albums">Альбомы</string>
+    <string name="nav_studio">Звуки &amp; Студия</string>
+    <string name="nav_quiz">Битло-Тест</string>
+    <string name="nav_members">Участники</string>
+</resources>
